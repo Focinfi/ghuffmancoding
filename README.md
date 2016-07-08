@@ -2,7 +2,7 @@ huffmancoding package is an implementation of Huffman Coding in Golang
 
 #### Install 
 
-`go get github.com/Focinfi/huffmancoding`
+`go get github.com/Focinfi/ghuffmancoding`
 
 #### Usage
 
